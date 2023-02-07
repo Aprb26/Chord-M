@@ -12,13 +12,13 @@ let songItems = Array.from(document.getElementsByClassName('songItem'));
 let songs = [
     {songName: "Let me love you", filePath: "song/1.mp3", coverPath: "covers/1.jpg"},
     {songName: "Allah Hafiz", filePath: "song/2.mp3", coverPath: "covers/2.jpg"},
-    {songName: "Dil Ibaadat - Tum Mile 128 Kbps", filePath: "song/3.mp3", coverPath: "covers/3.jpg"},
-    {songName: "Dil Kyun Yeh Mera - Kites 128 Kbps", filePath: "song/4.mp3", coverPath: "covers/4.jpg"},
+    {songName: "Dil Ibaadat ", filePath: "song/3.mp3", coverPath: "covers/3.jpg"},
+    {songName: "Dil Kyun Yeh Mera", filePath: "song/4.mp3", coverPath: "covers/4.jpg"},
     {songName: "Dilnashin Dilnashin", filePath: "song/5.mp3", coverPath: "covers/5.jpg"},
     {songName: "Dus Bahane", filePath: "song/6.mp3", coverPath: "covers/6.jpg"},
-    {songName: "Guzaarish - Guzaarish", filePath: "song/7.mp3", coverPath: "covers/7.jpg"},
-    {songName: "Kabhi Aayine Pe Likha Tujhe 128 Kbps", filePath: "song/8.mp3", coverPath: "covers/8.jpg"},
-    {songName: "Kya Mujhe Pyaar Hai - Woh Lamhe 128 Kbps", filePath: "song/9.mp3", coverPath: "covers/9.jpg"},
+    {songName: "Guzaarish ", filePath: "song/7.mp3", coverPath: "covers/7.jpg"},
+    {songName: "Kabhi Aayine Pe Likha Tujhe", filePath: "song/8.mp3", coverPath: "covers/8.jpg"},
+    {songName: "Kya Mujhe Pyaar Hai", filePath: "song/9.mp3", coverPath: "covers/9.jpg"},
     {songName: "Labon Ko", filePath: "song/10.mp3", coverPath: "covers/10.jpg"},
 ]
 
